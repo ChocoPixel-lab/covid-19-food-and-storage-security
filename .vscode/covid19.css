@@ -163,7 +163,7 @@ body {
 .hospital-info-name {
     font-size: 24px;
     font-weight: bold;
-    color: rgba(185, 6, 6, 0.87)7)
+    color: rgba(185, 6, 6, 0.87);
 }
 
 .hospital-info-status {
@@ -178,7 +178,7 @@ body {
     display: flex;
     margin-top: 8px;
     align-items: center;
-    color: rgba(9, 6, 185, 0.87)7)
+    color: rgba(9, 6, 185, 0.87);
 }
 
 .hospital-info-address .circle,
@@ -225,7 +225,8 @@ body {
     padding-left: 8px;
     padding-right: 8px;
     margin-top: 12px;
-    color: rgba(214, 36, 184, 0.87)7) margin-bottom: 12px;
+    color: rgba(214, 36, 184, 0.87);
+    margin-bottom: 12px;
 }
 
 .hospital-container-background:hover {
